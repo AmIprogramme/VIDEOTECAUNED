@@ -1,0 +1,58 @@
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.deps.json
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_.2660ADCE.Up2Date
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\refint\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\ref\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.sourcelink.json
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.deps.json
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_.2660ADCE.Up2Date
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\refint\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\ref\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.deps.json
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_.2660ADCE.Up2Date
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\refint\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Capa_de_Acceso_a_Datos\obj\Debug\net6.0\ref\Capa_de_Acceso_a_Datos.dll

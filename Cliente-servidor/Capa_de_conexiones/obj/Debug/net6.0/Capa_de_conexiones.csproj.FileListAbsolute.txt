@@ -1,0 +1,63 @@
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.deps.json
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_.EEBC5FEF.Up2Date
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\refint\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Documents\Segundo Cuatrimestre\Programación avanzada\Proyectos\Proyecto2_Andres_Q_R\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\ref\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.deps.json
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_.EEBC5FEF.Up2Date
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\refint\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Desktop\VIDEOTECAUNED-master\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\ref\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.deps.json
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Accessibility.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_Acceso_a_Datos.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\bin\Debug\net6.0\Capa_de_entidades.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfoInputs.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.AssemblyInfo.cs
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_.EEBC5FEF.Up2Date
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\refint\Capa_de_conexiones.dll
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\Capa_de_conexiones.pdb
+C:\Users\Lab Estudiante\Desktop\Proyecto Andrés Quesada Rodríguez\Cliente-servidor\Capa_de_conexiones\obj\Debug\net6.0\ref\Capa_de_conexiones.dll

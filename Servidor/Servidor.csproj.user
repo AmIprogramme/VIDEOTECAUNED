@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_encargado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_pelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_peliculaxSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_sucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Consultas\Consulta_de_prestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_encargado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_pelicula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_peliculaxsucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_sucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

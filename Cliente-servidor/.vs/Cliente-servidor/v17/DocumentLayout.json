@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Cliente-servidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29FC2-970F-49F0-946D-CDAE26C1CA41}|Capa_de_conexiones\\Capa_de_conexiones.csproj|c:\\users\\lab estudiante\\desktop\\proyecto andr\u00E9s quesada rodr\u00EDguez\\cliente-servidor\\capa_de_conexiones\\tcp_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29FC2-970F-49F0-946D-CDAE26C1CA41}|Capa_de_conexiones\\Capa_de_conexiones.csproj|solutionrelative:capa_de_conexiones\\tcp_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359FE594-E5DF-4B0B-960B-B22CA837DBE5}|..\\Usuario\\Usuario.csproj|c:\\users\\lab estudiante\\desktop\\proyecto andr\u00E9s quesada rodr\u00EDguez\\usuario\\interfaces\\menu_de_ingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB755FAC-8D77-4235-887E-90D2118BD53C}|..\\Servidor\\Servidor.csproj|c:\\users\\lab estudiante\\desktop\\proyecto andr\u00E9s quesada rodr\u00EDguez\\servidor\\capa_de_presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB755FAC-8D77-4235-887E-90D2118BD53C}|..\\Servidor\\Servidor.csproj|c:\\users\\lab estudiante\\desktop\\proyecto andr\u00E9s quesada rodr\u00EDguez\\servidor\\capa_de_presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tcp_usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Cliente-servidor\\Capa_de_conexiones\\tcp_usuario.cs",
+              "RelativeDocumentMoniker": "Capa_de_conexiones\\tcp_usuario.cs",
+              "ToolTip": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Cliente-servidor\\Capa_de_conexiones\\tcp_usuario.cs",
+              "RelativeToolTip": "Capa_de_conexiones\\tcp_usuario.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwDcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:27:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu_de_ingreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Usuario\\Interfaces\\Menu_de_ingreso.cs",
+              "RelativeDocumentMoniker": "..\\Usuario\\Interfaces\\Menu_de_ingreso.cs",
+              "ToolTip": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Usuario\\Interfaces\\Menu_de_ingreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Usuario\\Interfaces\\Menu_de_ingreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:26:50.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "ToolTip": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "RelativeToolTip": "..\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAABIDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:26:21.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "RelativeDocumentMoniker": "..\\Servidor\\Capa_de_presentacion\\Menu.cs",
+              "ToolTip": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andr\u00E9s Quesada Rodr\u00EDguez\\Servidor\\Capa_de_presentacion\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Servidor\\Capa_de_presentacion\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T02:52:25.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

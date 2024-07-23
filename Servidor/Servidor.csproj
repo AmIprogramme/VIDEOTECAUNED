@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_de_Acceso_a_Datos\Capa_de_Acceso_a_Datos.csproj" />
+    <ProjectReference Include="..\Capa_de_entidades\Capa_de_entidades.csproj" />
+    <ProjectReference Include="..\Cliente-servidor\Capa_de_conexiones\Capa_de_conexiones.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Capa_de_presentacion\Consultas\Consultar_persona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Capa_de_presentacion\Registros\Registrar_persona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

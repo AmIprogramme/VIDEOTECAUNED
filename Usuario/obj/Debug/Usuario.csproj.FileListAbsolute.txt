@@ -1,0 +1,11 @@
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\bin\Debug\Usuario.exe.config
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\bin\Debug\Usuario.exe
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\bin\Debug\Usuario.pdb
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.Interfaces.Menu_de_ingreso.resources
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.csproj.GenerateResource.cache
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.exe
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.pdb
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.Interfaces.Historial.resources
+C:\Users\Lab Estudiante\Documents\Primer cuatrimestre 2024\Programación avanzada\Tareas por realizar programación avanzada\Tarea 2\Usuario\obj\Debug\Usuario.Interfaces.Pedido_Articulos.resources

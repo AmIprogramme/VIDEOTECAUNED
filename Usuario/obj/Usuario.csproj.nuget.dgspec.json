@@ -1,0 +1,323 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Usuario\\Usuario.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\Capa_de_Acceso_a_Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\Capa_de_Acceso_a_Datos.csproj",
+        "projectName": "Capa_de_Acceso_a_Datos",
+        "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\Capa_de_Acceso_a_Datos.csproj",
+        "packagesPath": "C:\\Users\\Lab Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lab Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj": {
+                "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj",
+        "projectName": "Capa_de_entidades",
+        "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj",
+        "packagesPath": "C:\\Users\\Lab Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lab Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\Capa_de_conexiones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\Capa_de_conexiones.csproj",
+        "projectName": "Capa_de_conexiones",
+        "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\Capa_de_conexiones.csproj",
+        "packagesPath": "C:\\Users\\Lab Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lab Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\Capa_de_Acceso_a_Datos.csproj": {
+                "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_Acceso_a_Datos\\Capa_de_Acceso_a_Datos.csproj"
+              },
+              "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj": {
+                "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Usuario\\Usuario.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Usuario\\Usuario.csproj",
+        "projectName": "Usuario",
+        "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Usuario\\Usuario.csproj",
+        "packagesPath": "C:\\Users\\Lab Estudiante\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Usuario\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lab Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj": {
+                "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Capa_de_entidades\\Capa_de_entidades.csproj"
+              },
+              "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\Capa_de_conexiones.csproj": {
+                "projectPath": "C:\\Users\\Lab Estudiante\\Desktop\\Proyecto Andrés Quesada Rodríguez\\Cliente-servidor\\Capa_de_conexiones\\Capa_de_conexiones.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
